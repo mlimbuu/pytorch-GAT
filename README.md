@@ -11,4 +11,5 @@
 [Graph Attention Networks for node classification](https://keras.io/examples/graph/gat_node_classification/)
 
 [All you need to know about Graph Attention Networks](https://analyticsindiamag.com/all-you-need-to-know-about-graph-attention-networks/)
+
 [Understanding Graph Attention Networks: A Practical Exploration](https://medium.com/@farzad.karami/understanding-graph-attention-networks-a-practical-exploration-cf033a8f3d9d)
